@@ -1,3 +1,6 @@
+#Əkmə peysər 
+#Əkənin anasın sikim
+
 import heroku3
 from time import time
 import random
