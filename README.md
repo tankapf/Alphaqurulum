@@ -3,3 +3,6 @@
   <h1>Auto Alpha User Bot qurulumu</h1>
 </div>
         <a href="https://t.me/AlphaUserBot">ALPHAUSERBOT</a> |
+
+## Oğurlamadan öncə bura bax 🤭
+https://github.com/Goqerti/Alphaqurulum/blob/main/alpha_installer/__main__.py
