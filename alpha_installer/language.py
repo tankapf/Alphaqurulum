@@ -1,3 +1,4 @@
+#Əkəcəksənsə əkmədən öncə anavı fikirləş😔
 from json import loads
 from rich.prompt import Prompt
 from . import logo, console, bilgi
