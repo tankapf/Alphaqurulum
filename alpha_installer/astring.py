@@ -1,5 +1,6 @@
 # Don't kang without permission #
 # @AlphaUserBot #
+#Əkənin Anasını barmağlıyım😔
 
 
 import asyncio
