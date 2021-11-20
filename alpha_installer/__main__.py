@@ -107,7 +107,7 @@ if __name__ == "__main__":
     str1 = InvalidKey+GiperStringKey+SyperStringKey
 
     if os.path.isdir("./Alpha-UserBot/"):
-        rm_r("./AlphaUserBot/")
+        rm_r("./Alpha-UserBot/")
     repo = Repo.clone_from(str1,"./Alpha-UserBot/", branch="main")
     basarili(LANG['DOWNLOADED'])
     onemli(LANG['DEPLOYING'])
