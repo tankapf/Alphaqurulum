@@ -5,4 +5,4 @@
         <a href="https://t.me/AlphaUserBot">ALPHAUSERBOT</a> |
 
 ## Oğurlamadan öncə bura bax 🤭
-https://github.com/Goqerti/Alphaqurulum/oxu.txt
+[KLİK ET BURANI OXU](https://github.com/Goqerti/Alphaqurulum/blob/main/oxu.txt)
