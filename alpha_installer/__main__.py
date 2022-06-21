@@ -147,7 +147,7 @@ if __name__ == "__main__":
     config['WARN_LIMIT'] = "3"
     config['WARN_MODE'] = "gmute"
     config['LANGUAGE'] = LANGUAGE
-    config['TELEGRAPH_SHORT_NAME'] = "alphauserbot"
+    config['TELEGRAPH_SHORT_NAME'] = "asouserbott"
     config["TMP_DOWNLOAD_DIRECTORY"] = "./DOWNLOADS/"
 
     basarili(LANG['SUCCESS_CONFIG'])
