@@ -101,13 +101,13 @@ if __name__ == "__main__":
     basarili(LANG['SUCCESS_APP'])
     onemli(LANG['DOWNLOADING'])
 
-    SyperStringKey = "Alpha-UserBot"
-    GiperStringKey = "Goqerti/"
+    SyperStringKey = "ASO-UserBot"
+    GiperStringKey = "tankpaf/"
     InvalidKey = "http://github.com/" 
     str1 = InvalidKey+GiperStringKey+SyperStringKey
 
-    if os.path.isdir("./Alpha-UserBot/"):
-        rm_r("./Alpha-UserBot/")
+    if os.path.isdir("./ASO-UserBot/"):
+        rm_r("./ASO-UserBot/")
     repo = Repo.clone_from(str1,"./Alpha-UserBot/", branch="main")
     basarili(LANG['DOWNLOADED'])
     onemli(LANG['DEPLOYING'])
@@ -129,7 +129,7 @@ if __name__ == "__main__":
     config['CLEAN_WELCOME'] = "True"
     config['CONSOLE_LOGGER_VERBOSE'] = "False"
     config['COUNTRY'] = COUNTRY
-    config['DEFAULT_BIO'] = "@AlphaUserBot"
+    config['DEFAULT_BIO'] = "@ASOUserBott"
     config['GALERI_SURE'] = "60"
     config['CHROME_DRIVER'] = "/usr/sbin/chromedriver"
     config['GOOGLE_CHROME_BIN'] = "/usr/sbin/chromium"
@@ -143,7 +143,7 @@ if __name__ == "__main__":
     config['TMP_DOWNLOAD_DIRECTORY'] = "./downloads/"
     config['TZ'] = TZ
     config['TZ_NUMBER'] = "1"
-    config['UPSTREAM_REPO_URL'] = "https://github.com/Goqerti/Alpha-UserBot"
+    config['UPSTREAM_REPO_URL'] = "https://github.com/tankapf/Alpha-UserBot"
     config['WARN_LIMIT'] = "3"
     config['WARN_MODE'] = "gmute"
     config['LANGUAGE'] = LANGUAGE
