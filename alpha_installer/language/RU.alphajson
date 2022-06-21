@@ -2,7 +2,7 @@
     "__ALPHAJSON__": true,
     "LANGUAGE": "Pусский",
     "LANGCODE": "RU",
-    "AUTHOR": "@Sirvhan",
+    "AUTHOR": "@Vusaliw",
     "STRINGS": {
         "MAIN": {
             "INVALID_KEY": "(!) API KEY неверно введён.",
@@ -13,8 +13,8 @@
             "SUCCESS_STRING": "(✓) StringSession успешно получен!",
             "CREATING_APP": "(i) Приложение создаётся...",
             "SUCCESS_APP": "(✓) Приложение успешно создано",
-            "DOWNLOADING": "(i) A L P H A устанавливается...",
-            "DOWNLOADED": "(✓) Установка A L P H A успешно завершена!",
+            "DOWNLOADING": "(i) A S O U S E R B O T устанавливается...",
+            "DOWNLOADED": "(✓) Установка A S O U S E R B O T успешно завершена!",
             "DEPLOYING": "(i) Процедура deploy'а начинается... (Эта процедура может занять много времени)",
             "WRITING_CONFIG": "(i) Данные записываются...",
             "SET_LANG": "(✓) Ваш бот уже на {} языке!",
