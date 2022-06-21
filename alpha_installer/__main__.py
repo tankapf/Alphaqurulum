@@ -63,7 +63,7 @@ async def botlog (String, Api, Hash):
     await Client.start()
 
     KanalId = await Client(CreateChannelRequest(
-        title='AlphaUserBot BotLog',
+        title='ASOUserBott BotLog',
         about=LANG['AUTO_BOTLOG'],
         megagroup=True
     ))
@@ -108,7 +108,7 @@ if __name__ == "__main__":
 
     if os.path.isdir("./ASO-UserBot/"):
         rm_r("./ASO-UserBot/")
-    repo = Repo.clone_from(str1,"./Alpha-UserBot/", branch="main")
+    repo = Repo.clone_from(str1,"./ASO-UserBot/", branch="main")
     basarili(LANG['DOWNLOADED'])
     onemli(LANG['DEPLOYING'])
     app = hgit(heroku, repo, appname)
